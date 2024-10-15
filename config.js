@@ -40,7 +40,7 @@ async function loadConfig() {
         debug: "blue",
         error: "brightRed"
       }), global.owner = [
-        ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", !0]
+        ["917002015750", "️𝑶𝒘𝒏𝒆𝒓", !0]
       ],
       global.mods = ["6282195322106"], global.prems = ["6282195322106"], global.APIs = {
         amel: "https://melcanz.com",
